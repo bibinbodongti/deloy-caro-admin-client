@@ -1,1 +1,1 @@
-export const API_URL = 'https://caro-admin-front-end.herokuapp.com/'
+export const API_URL = 'https://caro-admin-server.herokuapp.com'
